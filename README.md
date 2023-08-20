@@ -8,7 +8,8 @@ All about "China":
 # Topics
 
 - [economy](economy.md)
-
+- [language](language)
+	- [cleansing](language/cleansing.md)
 ## Library
 ## Podcasts
 - 不明白播客 { https://www.bumingbai.net; general }
